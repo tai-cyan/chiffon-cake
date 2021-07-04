@@ -10,3 +10,8 @@
 	color: skyblue;
 	background-color: whitesmoke;
 }
+
+a {
+	display: inline-block;
+	font-size: 200%;
+}
