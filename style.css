@@ -1,0 +1,12 @@
+* {
+	text-align: center;
+	background-color: black;
+	color: gray;
+	margin: 0;
+}
+
+.title {
+	font-size: 300%;
+	color: skyblue;
+	background-color: whitesmoke;
+}
